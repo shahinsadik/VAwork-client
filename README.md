@@ -1,10 +1,10 @@
-# Acowork
+# VAwork
 
 **Live URL**: [https://apollow-assignment-5-front-end.vercel.app/](https://apollow-assignment-5-front-end.vercel.app)
 
 ## Overview
 
-Acowork is a co-working space platform that offers seamless room booking experiences, allowing users to check real-time availability, schedule meetings, and manage their reservations effortlessly.
+VAwork is a co-working space platform that offers seamless room booking experiences, allowing users to check real-time availability, schedule meetings, and manage their reservations effortlessly.
 
 ## Features
 
@@ -28,7 +28,7 @@ Acowork is a co-working space platform that offers seamless room booking experie
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/Saiful10400/Apollow-Assignment-5-front-end
+    git clone https://github.com/shahinsadik/VAwork-client
     ```
 
 2. Navigate to the project directory:
